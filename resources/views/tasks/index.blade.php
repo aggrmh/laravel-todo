@@ -54,7 +54,6 @@
             </table>
         </div>
       </div>
-      ｋ
     </div>
   </div>
 @endsection
